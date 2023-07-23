@@ -1,0 +1,2 @@
+hello dis is example of folder placed in git1
+im adding some features advanced
